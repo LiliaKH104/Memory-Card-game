@@ -1,0 +1,11 @@
+[
+  { "name": "Bob", "image": "../photos/1.png" },
+  { "name": "Patrick", "image": "../photos/2.png" },
+  { "name": "Squidward", "image": "../photos/3.png" },
+  { "name": "Mr_Krabs", "image": "../photos/4.png" },
+  { "name": "Plankton", "image": "../photos/5.png" },
+  { "name": "Sandy", "image": "../photos/6.jpg" },
+  { "name": "Computer", "image": "../photos/7.jpg" },
+  { "name": "Ghost", "image": "../photos/8.png" },
+  { "name": "Gary", "image": "../photos/9.png" }
+]
